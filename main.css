@@ -1,0 +1,39 @@
+.context {
+    text-align: center;
+    font-size: 15px;
+    font-family: serif, 'Times New Roman';
+    color:bisque;
+    background-color: black;
+    padding: 15px;
+    -webkit-text-fill-color: black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: wheat;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman';
+    margin-bottom: 10px;
+    margin-top: 145px;
+    color: black;
+    -webkit-text-fill-color: white; 
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+h3 {
+    text-align: center;
+    font-family: Cambria;
+    color: black;
+    -webkit-text-fill-color: white; 
+    -webkit-text-stroke-width: .65px;
+    -webkit-text-stroke-color: black;
+}
+
+body{
+    background-image: url('images/swirl.gif');
+    background-size: cover;
+    height: 100px;
+    padding:0;
+    margin:0;
+}
